@@ -7,3 +7,5 @@ seaborn
 jupyter
 plotly
 beautifulsoup4
+sqlalchemy
+ipython-sql

@@ -127,4 +127,4 @@ logs/
 # dotenv environment files
 .env.*
 
-*.csv
+*.db
