@@ -9,3 +9,5 @@ plotly
 beautifulsoup4
 sqlalchemy
 ipython-sql
+folium
+wget
