@@ -11,3 +11,4 @@ sqlalchemy
 ipython-sql
 folium
 wget
+dash
